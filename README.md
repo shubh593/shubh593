@@ -5,7 +5,7 @@
 
 Passionate about bridging theoretical artificial intelligence with real-world, high-impact systems. My work spans the full machine learning lifecycle—from foundational statistical modeling and computer vision to natural language pipelines and autonomous reinforcement learning agents.
 
----
+----
 
 ### 🔭 What I'm Doing
 - 🛸 **Workspace**: Developing, prototyping, and orchestrating models inside **Antigravity**.
