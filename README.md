@@ -1,4 +1,4 @@
-                                                                   ## Hi there, I'm Shubham 
+## Hi there, I'm Shubham 
 
 🎓 **AI & Data Science Student at Zeal College of Engineering and Research (ZCOER), Pune**  
 🚀 **AI/ML Developer | Deep Learning & Algorithmic Trading Systems**
